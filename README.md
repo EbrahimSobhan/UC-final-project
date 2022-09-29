@@ -3,23 +3,27 @@
 <div dir="rtl">
 
 ### اسم الطالب
+  ابراهيم سبهان حيدري
 
 
 ### اسم المشروع
+  كتكوت
 
 
 # شرح الفكرة
 المشكلة والحلول المطروحة إن وجدت
+  تطبيق لشرا اجدد و احدث العاب الاطفال 
 
 
 # الأعمال المستقبلية
+  تطبيقات تتعلق بامور ماليه
 
 
 </div>
 
 > Fill out project information in English ⬇️
 ### Student Name
-
+ebrahim sobhan haidari
 
 ### Project Name
 
